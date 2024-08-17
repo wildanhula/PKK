@@ -1,0 +1,17 @@
+body {
+  background-color: #070f2b;
+  font-family: "DM Serif Display" "Monoton" "Lora" "Bebas Neue" Arial, Helvetica, sans-serif;
+  min-height: 2000px;
+}
+.navbar-nav > li > a {
+  font-size: 30px;
+  color: #ffc55a;
+  font-family: "Bebas Neue";
+  
+}
+.navbar-nav > li > a:hover{
+  color:#ffff;
+}
+.btn{
+  border: #ffff;
+}
